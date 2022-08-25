@@ -1,5 +1,7 @@
 # Data-driven-real-estate-decisions-to-maximize-ROI
 
+Final dataset for machine learning model: https://drive.google.com/file/d/1K9_PYgt8vkdneCvKcAkVhpQuRllePO-y/view?usp=sharing
+
 Consulting Project
 
 Project sponsor: Centro.io      
