@@ -6,7 +6,7 @@ Methodology: Use property level rent data in conjunction with additionally gathe
 
 Final dataset for machine learning model: https://drive.google.com/file/d/1K9_PYgt8vkdneCvKcAkVhpQuRllePO-y/view?usp=sharing
 
-Noye: Project sponsor - Centro.io      
+Project sponsor: Centro.io      
 Centro is a data driven asset management firm based in Miami, Florida, focused on the acquisition and management of apartment communities and shopping centers throughout the southeast United States and Texas. Centro in its partnership with Fondo Atlas manages assets in excess of $125M and properties totaling more than 600,000 sq. ft.
   
   
