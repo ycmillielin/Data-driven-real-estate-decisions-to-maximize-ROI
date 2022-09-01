@@ -1,5 +1,8 @@
 # Data-driven-real-estate-decisions-to-maximize-ROI
 
+## Capstone project with USC Marshall School of Business sponsored by Centro.io and Fondo Atlas    
+Centro is a data driven asset management firm based in Miami, Florida, focused on the acquisition and management of apartment communities and shopping centers throughout the southeast United States and Texas. Centro in its partnership with Fondo Atlas manages assets in excess of $125M and properties totaling more than 600,000 sq. ft.
+
 **Goal**: Identify the 10 areas (US Census Tract) in the country with the highest expected rent growth in the next three years (2025).
 
 **Methodology**: Use property level rent data in conjunction with additionally gathered data (Economics, Demographic, Location) to train models that predicts the change in rent for the entire country from 2022 to 2025.
@@ -16,8 +19,5 @@
   - Final model: XGBoost 
   - R-Squared Value: 0.9644
   - Expected 3 Year ROI* ($10m): $9.17 Million Profit
-
-**Project sponsor: Centro.io**      
-Centro is a data driven asset management firm based in Miami, Florida, focused on the acquisition and management of apartment communities and shopping centers throughout the southeast United States and Texas. Centro in its partnership with Fondo Atlas manages assets in excess of $125M and properties totaling more than 600,000 sq. ft.
   
   
