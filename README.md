@@ -13,7 +13,7 @@ Use property level rent data in conjunction with additionally gathered data (Eco
 https://drive.google.com/file/d/1K9_PYgt8vkdneCvKcAkVhpQuRllePO-y/view?usp=sharing
 
 ### Modeling Process: 
-  - Way to train the model ![Screen Shot 2022-09-01 at 1 50 38 PM](https://user-images.githubusercontent.com/96958028/188010072-8c869895-39ba-448c-bc7c-2120a2cbed8e.png)
+  - Way to train the model: ![Screen Shot 2022-09-01 at 1 50 38 PM](https://user-images.githubusercontent.com/96958028/188010072-8c869895-39ba-448c-bc7c-2120a2cbed8e.png)
   - Models to apply: Linear Regression, Decision Tree, Random Forest, XG Boost, LightGBM, RNN Long short-term memory(LSTM)  
   - Conducted GridSearchCV with 10-fold cross validation to find the best hyper-parameters in each machine learning algorithm 
   - Result: We choose XGBoost as our final model with highest average R squared, which is about 0.96
